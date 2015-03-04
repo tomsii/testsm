@@ -1,0 +1,3 @@
+[submodule "modules/toas/3.2"]
+	path = modules/toas/3.2
+	url = https://github.com/open-infinity/automation.git
